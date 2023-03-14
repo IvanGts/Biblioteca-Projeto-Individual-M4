@@ -7,7 +7,7 @@
 
 <div align="center" display="flex" padding="10px">
  <h3 align="center">Tecnologias usadas</h3>
- <img width="150px" align="center" src="[https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg](https://cdn-icons-png.flaticon.com/512/919/919854.png)">
+ <img width="150px" align="center" src="">
 </div>
 
 <div align="center" display="flex" justify-content="center" flex-direction="column">

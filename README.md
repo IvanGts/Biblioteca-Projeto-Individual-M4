@@ -9,7 +9,7 @@
 
 <div align="center" display="flex" padding="10px">
  <h3 align="center">Tecnologias usadas</h3>
- <img width="150px" background="#000" align="center" src="https://logospng.org/wp-content/uploads/java.png">
+ <img width="150px" background="#000" align="center" src="https://cdn-icons-png.flaticon.com/512/1183/1183618.png">
 </div>
 
 <div align="center" display="flex" justify-content="center" flex-direction="column">
